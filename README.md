@@ -44,7 +44,6 @@ I enjoy working on projects that have a meaningful impact and solve real-world p
 
 Feel free to reach out or connect with me:
 
-- 📫 [Email](mailto:your-email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/soumyadeb13/)
 - 🐦 [Twitter](https://twitter.com/soumya_deb1076)
 
