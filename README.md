@@ -77,9 +77,6 @@ My work focuses on building **scalable applications**, designing **robust APIs**
 
 ## Selected Work (Representative)
 
-> GitHub READMEs cannot dynamically list repositories without external APIs.  
-> Below is a **curated representation** of my engineering focus.
-
 | Area | Description |
 |----|----|
 | Backend Systems | High-performance APIs, caching strategies, service layering |
