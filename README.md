@@ -11,8 +11,6 @@ I enjoy working on projects that have a meaningful impact and solve real-world p
 Feel free to reach out or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soumyadeb13/)
-- 🐦 [Twitter](https://twitter.com/soumya_deb1076)
-- ⓕ  [Facebook](https://www.facebook.com/soumyadeb13)
 
 Let's collaborate and build something amazing together!
 
