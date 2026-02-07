@@ -28,11 +28,14 @@ I bridge the gap between **scalable web ecosystems** and **intelligent data proc
 
 ---
 
-### 📈 Profile Performance
+### 📈 Profile Performance & Activity Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" alt="Soumya's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
