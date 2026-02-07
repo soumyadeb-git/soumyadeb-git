@@ -33,10 +33,7 @@ My work focuses on building **scalable applications**, designing **robust APIs**
 ### Frontend Engineering
 - React
 - Next.js (App Router)
-- TypeScript
 - Tailwind CSS / SCSS
-- Framer Motion
-- Zustand / Redux
 
 </td>
 
@@ -45,21 +42,14 @@ My work focuses on building **scalable applications**, designing **robust APIs**
 ### Backend & Data
 - Node.js / Express
 - Python (FastAPI, Flask)
-- RESTful API Design
 - Pandas / NumPy
-- PostgreSQL / MySQL
-- MongoDB
 
 </td>
 
 <td width="33%" valign="top">
 
 ### DevOps & Engineering Tools
-- Docker & Containerization
-- CI / CD Workflows
-- Git (Branching & Code Review)
 - API Documentation (OpenAPI / Swagger)
-- Cloud Deployment (AWS / Vercel)
 - Figma (Engineering–Design Collaboration)
 
 </td>
