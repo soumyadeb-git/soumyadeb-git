@@ -9,13 +9,13 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/soumyadeb13/">
+    <a href="https://www.linkedin.com/in/soumyadeb13/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://leetcode.com/u/soumyadeb/">
+    <a href="https://leetcode.com/u/soumyadeb/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
-    <a href="https://github.com/soumyadeb-git">
+    <a href="https://github.com/soumyadeb-git" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Engineering-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
@@ -25,13 +25,12 @@
 
 ## Professional Summary
 
-**Full-Stack Engineer with strong data engineering foundations**, specializing in scalable, production-grade systems.  
-Experienced across frontend architecture, backend services, and data pipelines with a performance-first mindset.
+**Full-Stack Engineer with strong data engineering foundations**, focused on building scalable, production-grade systems with measurable performance impact.
 
-- **Frontend:** Modern, high-performance interfaces using React & Next.js  
-- **Backend:** API-driven systems with Node.js and Python  
-- **Data:** Analytics, ETL pipelines, and optimization using SQL & Python  
-- **Engineering Focus:** Clean architecture, low latency, long-term scalability  
+- **Frontend:** React & Next.js with performance-oriented UI architecture  
+- **Backend:** Node.js & Python APIs designed for scale  
+- **Data:** ETL pipelines, analytics, and SQL-driven insights  
+- **Engineering:** Clean architecture, low latency, maintainability  
 
 ---
 
@@ -42,7 +41,8 @@ Experienced across frontend architecture, backend services, and data pipelines w
     <td width="33%" valign="top">
 
 ### Frontend Engineering
-- React / Next.js (App Router)
+- React
+- Next.js (App Router)
 - TypeScript
 - Tailwind CSS / SCSS
 - Framer Motion
@@ -62,11 +62,11 @@ Experienced across frontend architecture, backend services, and data pipelines w
 <td width="33%" valign="top">
 
 ### DevOps & Tooling
-- Docker & Containerization
+- Docker & Containers
 - AWS / Vercel
 - Git & CI/CD
 - Postman / Swagger
-- Figma (Design Collaboration)
+- Figma (UI Collaboration)
 
 </td>
   </tr>
@@ -77,7 +77,10 @@ Experienced across frontend architecture, backend services, and data pipelines w
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadeb-git&theme=tokyonight&no-bg=true&column=6&margin-w=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=soumyadeb-git&theme=tokyonight&no-bg=true&column=6&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -88,15 +91,24 @@ Experienced across frontend architecture, backend services, and data pipelines w
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+          alt="GitHub Stats"
+        />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&hide_border=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+        />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
@@ -104,18 +116,21 @@ Experienced across frontend architecture, backend services, and data pipelines w
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeb-git&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeb-git&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Focus Area | Stack | Status |
-|-------|-----------|-------|--------|
+| Project | Focus Area | Tech Stack | Status |
+|-------|-----------|-----------|--------|
 | **Core Web Engine** | High-scale backend & caching | Node.js, Redis, React | Production |
-| **Data Analytics Suite** | Data processing & insights | Python, Pandas, SQL | Live |
-| **UI Component Library** | Reusable UI systems | Tailwind, Framer Motion | Stable |
+| **Data Analytics Suite** | Analytics & ETL pipelines | Python, Pandas, SQL | Live |
+| **UI Component Library** | Reusable design systems | Tailwind, Framer Motion | Stable |
 
 ---
 
