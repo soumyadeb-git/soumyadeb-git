@@ -2,7 +2,7 @@
 
 # Soumya Deb
 
-### Full-Stack Engineer · Data-Driven Systems · Scalable Architecture
+### Data-Driven Systems · Scalable Architecture
 
 Building clean, maintainable, and performance-oriented software across frontend, backend, and data layers.
 
