@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Soumya%20Deb&fontSize=64&animation=fadeIn&fontAlignY=38" />
 
   <p align="center">
-    <a href="#technical-ecosystem">Technical Stack</a> •
+    <a href="#technical-ecosystem">Stack</a> •
     <a href="#performance-metrics">Performance</a> •
-    <a href="#featured-projects">Projects</a> •
-    <a href="#contribution-activity">Activity</a>
+    <a href="#development-activity-breakdown">Activity</a> •
+    <a href="#featured-projects">Projects</a>
   </p>
 
   <p align="center">
@@ -25,12 +25,12 @@
 
 ## Professional Summary
 
-**Full-Stack Engineer with strong data engineering foundations**, building scalable, performance-driven systems with real-world impact.
+**Full-Stack Engineer with data engineering depth**, focused on building scalable, maintainable, and performance-driven systems.
 
-- Frontend architecture using **React & Next.js**
-- Backend APIs with **Node.js & Python**
-- Data pipelines, analytics, and optimization using **SQL & Pandas**
-- Strong focus on **clean architecture, low latency, and scalability**
+- Modern frontend architecture with **React & Next.js**
+- Backend services using **Node.js & Python**
+- Data analytics, ETL pipelines, and optimization
+- Strong focus on **engineering discipline, performance, and clarity**
 
 ---
 
@@ -40,12 +40,12 @@
 <tr>
 <td width="33%" valign="top">
 
-### Frontend Engineering
-- React / Next.js (App Router)
+### Frontend
+- React / Next.js
 - TypeScript
 - Tailwind CSS / SCSS
 - Framer Motion
-- Redux / Zustand
+- Zustand / Redux
 
 </td>
 <td width="33%" valign="top">
@@ -60,7 +60,7 @@
 </td>
 <td width="33%" valign="top">
 
-### DevOps & Tooling
+### DevOps & Tools
 - Docker & Containers
 - AWS / Vercel
 - Git & CI/CD
@@ -83,39 +83,42 @@
 
 ## Performance Metrics
 
-### 📊 Core GitHub Statistics
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 📊 Core GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🔥 Consistency & Contribution Streak
+### 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Development Activity Breakdown
+## Development Activity Breakdown
+
+### 🧠 Profile Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyadeb-git&theme=tokyonight" />
 </p>
 
+---
+
+### 🧩 Language & Repo Distribution
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyadeb-git&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumyadeb-git&theme=tokyonight" />
 </p>
 
+---
+
+### 📈 Productivity & Velocity
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyadeb-git&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyadeb-git&theme=tokyonight&utcOffset=5.5" />
@@ -123,8 +126,7 @@
 
 ---
 
-## Contribution Activity
-
+### 🌐 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeb-git&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -133,8 +135,21 @@
 
 ## Featured Projects
 
-| Project | Focus Area | Tech Stack | Status |
-|-------|-----------|-----------|--------|
-| **Core Web Engine** | Backend performance & caching | Node.js, React | Production |
+| Project | Focus | Stack | Status |
+|------|------|------|------|
+| **Core Web Engine** | Backend performance | Node.js, Redis, React | Production |
 | **Data Analytics Suite** | ETL & insights | Python, Pandas, SQL | Live |
-| **UI Component Library** | Reusable UI systems | Tailwind, Framer Motion | Stable |
+| **UI Component Library** | Design systems | Tailwind, Framer Motion | Stable |
+
+---
+
+## Engineering Profile
+
+```javascript
+const soumya = {
+  role: "Full-Stack Engineer",
+  strengths: ["Scalable Architecture", "Performance Optimization", "Data Engineering"],
+  languages: ["JavaScript", "TypeScript", "Python", "SQL", "C++"],
+  frameworks: ["React", "Next.js", "Node.js", "FastAPI"],
+  mindset: "Build clean, scalable systems that last"
+};
