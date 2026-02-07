@@ -1,42 +1,25 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0:1f2937,100:111827&height=190&section=header&text=Soumya%20Deb&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+# Soumya Deb
 
-  <p align="center">
-    <strong>Full-Stack Engineer • Data-Driven Systems • Scalable Architecture</strong>
-  </p>
+### Full-Stack Engineer · Data-Driven Systems · Scalable Architecture
 
-  <p align="center">
-    <a href="#technical-ecosystem">Stack</a> •
-    <a href="#performance-metrics">Performance</a> •
-    <a href="#development-activity-breakdown">Activity</a> •
-    <a href="#featured-projects">Projects</a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/soumyadeb13/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/soumyadeb/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-    </a>
-    <a href="https://github.com/soumyadeb-git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    </a>
-  </p>
+Building clean, maintainable, and performance-oriented software across frontend, backend, and data layers.
 
 </div>
 
 ---
 
-## Professional Summary
+## Professional Overview
 
-**Full-Stack Engineer with strong data engineering foundations**, focused on building performant, maintainable, and scalable systems.
+I am a **Full-Stack Engineer** with a strong foundation in **data engineering and system design**.  
+My work focuses on building **scalable applications**, designing **robust APIs**, and creating **data pipelines** that support real-world production workloads.
 
-- Frontend architecture with **React & Next.js**
-- Backend APIs using **Node.js & Python**
-- Data pipelines, analytics, and optimization
-- Engineering mindset focused on **clarity, performance, and longevity**
+**Core principles I work by:**
+- Clear architecture over shortcuts  
+- Performance as a first-class concern  
+- Long-term maintainability  
+- Measurable impact through clean code and data  
 
 ---
 
@@ -47,8 +30,9 @@
 
 <td width="33%" valign="top">
 
-### 🧩 Frontend
-- React / Next.js
+### Frontend Engineering
+- React
+- Next.js (App Router)
 - TypeScript
 - Tailwind CSS / SCSS
 - Framer Motion
@@ -58,9 +42,10 @@
 
 <td width="33%" valign="top">
 
-### ⚙️ Backend & Data
+### Backend & Data
 - Node.js / Express
 - Python (FastAPI, Flask)
+- RESTful API Design
 - Pandas / NumPy
 - PostgreSQL / MySQL
 - MongoDB
@@ -69,12 +54,13 @@
 
 <td width="33%" valign="top">
 
-### 🚀 DevOps & Tools
-- Docker & Containers
-- AWS / Vercel
-- Git & CI/CD
-- Postman / Swagger
-- Figma
+### DevOps & Engineering Tools
+- Docker & Containerization
+- CI / CD Workflows
+- Git (Branching & Code Review)
+- API Documentation (OpenAPI / Swagger)
+- Cloud Deployment (AWS / Vercel)
+- Figma (Engineering–Design Collaboration)
 
 </td>
 
@@ -83,69 +69,59 @@
 
 ---
 
-## Achievements
+## Engineering Focus Areas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumyadeb-git&theme=onedark&no-bg=true&row=1&column=6" />
-</p>
+- **Scalable Architecture**  
+  Designing systems that handle growth without complexity explosion.
 
----
+- **Performance Optimization**  
+  API latency reduction, efficient queries, and frontend performance tuning.
 
-## Performance Metrics
+- **Data Engineering**  
+  ETL pipelines, analytics workflows, and structured data modeling.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=tokyonight&hide_border=true" />
-</p>
+- **Code Quality**  
+  Readable, testable, and maintainable codebases.
 
 ---
 
-## Development Activity Breakdown
+## Selected Work (Representative)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyadeb-git&theme=tokyonight" />
-</p>
+> GitHub READMEs cannot dynamically list repositories without external APIs.  
+> Below is a **curated representation** of my engineering focus.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyadeb-git&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumyadeb-git&theme=tokyonight" />
-</p>
+| Area | Description |
+|----|----|
+| Backend Systems | High-performance APIs, caching strategies, service layering |
+| Data Analytics | Python-based data processing and insight generation |
+| Frontend Systems | Reusable UI components and application-level state management |
+| Tooling | Internal utilities and developer productivity tooling |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyadeb-git&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyadeb-git&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyadeb-git&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+🔗 **Live repository activity:**  
+👉 https://github.com/soumyadeb-git?tab=repositories
 
 ---
 
-## Featured Projects (Dynamic)
+## Development Practices
 
-> GitHub does not expose an API to auto-list “featured projects” reliably inside READMEs.  
-> Instead, this section **dynamically reflects your real work** via live repo activity and languages.
-
-🔗 **Explore active repositories:**  
-👉 https://github.com/soumyadeb-git?tab=repositories&sort=updated
+- Modular architecture and separation of concerns
+- Clear naming, documentation, and commit history
+- Pragmatic use of patterns (not over-engineering)
+- Strong alignment between UI, API, and data layers
 
 ---
 
 ## Engineering Profile
 
-```javascript
+```js
 const soumya = {
   role: "Full-Stack Engineer",
-  strengths: ["Scalable Architecture", "Performance Optimization", "Data Engineering"],
+  strengths: [
+    "Scalable System Design",
+    "Backend Performance",
+    "Data Engineering",
+    "Frontend Architecture"
+  ],
   languages: ["JavaScript", "TypeScript", "Python", "SQL", "C++"],
-  frameworks: ["React", "Next.js", "Node.js", "FastAPI"],
-  mindset: "Build systems that scale cleanly and age well"
+  mindset: "Build systems that scale cleanly and remain maintainable"
 };
