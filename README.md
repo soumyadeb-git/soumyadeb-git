@@ -18,18 +18,6 @@
 ---
 
 ### 📊 Performance Metrics
-<!-- Using a table ensures side-by-side alignment and better loading stability -->
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=dracula" alt="GitHub Streak" />
 </p>
