@@ -1,114 +1,42 @@
-<div align="center">
+# ⚡ Soumya Deb
+**Full-Stack Engineer & Data Strategist**  
+*Specializing in High-Performance Web Ecosystems & Data Intelligence*
 
-# Soumya Deb
-
-### Data-Driven Systems · Scalable Architecture
-
-Building clean, maintainable, and performance-oriented software across frontend, backend, and data layers.
-
-</div>
-
----
-
-## Professional Overview
-
-I am a **Full-Stack Engineer** with a strong foundation in **data engineering and system design**.  
-My work focuses on building **scalable applications**, designing **robust APIs**, and creating **data pipelines** that support real-world production workloads.
-
-**Core principles I work by:**
-- Clear architecture over shortcuts  
-- Performance as a first-class concern  
-- Long-term maintainability  
-- Measurable impact through clean code and data  
+<p align="left">
+  <a href="https://www.linkedin.com/in/soumyadeb13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/soumyadeb13/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/soumyadeb-git"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## Technical Ecosystem
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### Frontend Engineering
-- React
-- Next.js (App Router)
-- Tailwind CSS / SCSS
-
-</td>
-
-<td width="33%" valign="top">
-
-### Backend & Data
-- Node.js / Express
-- Python (FastAPI, Flask)
-- Pandas / NumPy
-
-</td>
-
-<td width="33%" valign="top">
-
-### DevOps & Engineering Tools
-- API Documentation (OpenAPI / Swagger)
-- Figma (Engineering–Design Collaboration)
-
-</td>
-
-</tr>
-</table>
+### 🛠️ Technical Matrix
+| **Development** | **Data & Cloud** | **Tools** |
+| :--- | :--- | :--- |
+| React • Next.js • Node.js | Python • Pandas • NumPy | Git • Docker • AWS |
+| Tailwind • TypeScript | MySQL • PostgreSQL | Figma • Postman |
 
 ---
 
-## Engineering Focus Areas
+### 📊 Performance Metrics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumyadeb-git&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeb-git&layout=compact&theme=nord&hide_border=true&langs_count=6" />
+</p>
 
-- **Scalable Architecture**  
-  Designing systems that handle growth without complexity explosion.
-
-- **Performance Optimization**  
-  API latency reduction, efficient queries, and frontend performance tuning.
-
-- **Data Engineering**  
-  ETL pipelines, analytics workflows, and structured data modeling.
-
-- **Code Quality**  
-  Readable, testable, and maintainable codebases.
+<p align="center">
+  <img width="98.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeb-git&theme=nord&hide_border=true" />
+</p>
 
 ---
 
-## Selected Work (Representative)
-
-| Area | Description |
-|----|----|
-| Backend Systems | High-performance APIs, caching strategies, service layering |
-| Data Analytics | Python-based data processing and insight generation |
-| Frontend Systems | Reusable UI components and application-level state management |
-| Tooling | Internal utilities and developer productivity tooling |
-
-🔗 **Live repository activity:**  
-👉 https://github.com/soumyadeb-git?tab=repositories
+### 📂 Strategic Projects
+- 🌐 **Web Engines:** Scalable React/Node.js architectures focused on low latency.
+- 📉 **Analytics:** Python-driven EDA and automated data processing pipelines.
+- 🎨 **Systems:** Performance-optimized UI/UX component libraries.
 
 ---
 
-## Development Practices
-
-- Modular architecture and separation of concerns
-- Clear naming, documentation, and commit history
-- Pragmatic use of patterns (not over-engineering)
-- Strong alignment between UI, API, and data layers
-
----
-
-## Engineering Profile
-
-```js
-const soumya = {
-  role: "Full-Stack Engineer",
-  strengths: [
-    "Scalable System Design",
-    "Backend Performance",
-    "Data Engineering",
-    "Frontend Architecture"
-  ],
-  languages: ["JavaScript", "TypeScript", "Python", "SQL", "C++"],
-  mindset: "Build systems that scale cleanly and remain maintainable"
-};
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=flat-square" />
+</p>
