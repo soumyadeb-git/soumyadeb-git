@@ -11,10 +11,10 @@
 ---
 
 ### 🛠️ Technical Matrix
-| **Development** | **Data & Cloud** | **Tools** |
-| :--- | :--- | :--- |
-| React • Next.js • Node.js | Python • Pandas • NumPy | Git • Docker • AWS |
-| Tailwind • TypeScript | MySQL • PostgreSQL | Figma • Postman |
+| **Development** | **Data & Cloud** |
+| :--- | :--- |
+| React • Next.js • Node.js | Python • Pandas • NumPy |
+| Tailwind • TypeScript | MySQL • PostgreSQL |
 
 ---
 
